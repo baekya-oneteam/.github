@@ -126,8 +126,8 @@
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)  
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
-#### 💻 FrontEnd
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+#### 💻 Mobile
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 ---
 
